@@ -1,4 +1,5 @@
 
+
 const board = document.querySelector(".board");
 const startbutton = document.querySelector(".btn-start");
 const modal = document.querySelector(".modal");
